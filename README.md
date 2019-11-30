@@ -1,3 +1,6 @@
 # ai2html-animations
 
-Simple animations and interactives built into ai2html. Uses Attributes notes for custom animations (e.g. fade-ins, scroll effects).
+## Inspiration
+
+Labels for smaller countries could appear on hover.
+![](https://i.imgur.com/I0us57b.png)
